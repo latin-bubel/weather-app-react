@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
 import WeatherInformation from "./WeatherInformation";
-import DateBase from "./DateBase";
 
 export default function Weather(props) {
   const [weather, setWeather] = useState({ ready: false });

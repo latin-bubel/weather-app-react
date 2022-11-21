@@ -1,0 +1,17 @@
+.weather-temperature {
+  position: relative;
+  left: 70px;
+  bottom: 3px;
+}
+
+.weather-icon {
+  position: relative;
+  right: 120px;
+  top: 3px;
+}
+
+.weather-description {
+  position: relative;
+  left: 80px;
+  top: 20px;
+}
