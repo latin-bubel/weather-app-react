@@ -1,13 +1,23 @@
 import "./App.css";
-import WeatherSearch from "./WeatherSearch";
+import Weather from "./Weather";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Weather App </h1>
-        <WeatherSearch />
+        <Weather defaultCity="Warsaw" />
       </header>
+      <footer>
+        {""}
+        <a
+          href="https://github.com/latin-bubel/weather-app-react"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Open-source on Github
+        </a>
+        , by Estera Pietkiewicz
+      </footer>
     </div>
   );
 }
