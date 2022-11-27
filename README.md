@@ -1,5 +1,6 @@
 # Goals
-The goal of this projectw was to create a Weather App using Open Weather API
+1. The goal of this projectw was to create a Weather App using Open Weather API
+2. Hosted on Netlify : https://stellar-gumdrop-10634e.netlify.app/
 
 
 # Getting Started with Create React App
