@@ -1,3 +1,7 @@
+# Goals
+The goal of this projectw was to create a Weather App using Open Weather API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
